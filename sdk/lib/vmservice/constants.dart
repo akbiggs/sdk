@@ -4,7 +4,7 @@
 
 part of dart._vmservice;
 
-// These must be kept in sync with runtime/vm/service.cc.
+// These must be kept in sync with runtime/vm/service_isolate.cc.
 class Constants {
   static const int SERVICE_EXIT_MESSAGE_ID = 0;
   static const int ISOLATE_STARTUP_MESSAGE_ID = 1;
